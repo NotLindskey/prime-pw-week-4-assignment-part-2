@@ -1,5 +1,16 @@
+.body-no-header{
+    text-align: center;
+    border: 4px solid black;
+    display: float;
+    margin: auto;
+}
+
 header {
     background-color: red;
+}
+
+h3 {
+    background-color: greenyellow;
 }
 
 .info {
